@@ -1,0 +1,39 @@
+#experience .experience-img {
+    background: url('../images/experience-img.jpg') no-repeat;
+}
+
+#experience .media-heading {
+    margin-bottom: 0px;
+}
+
+#experience .media .fa {
+    font-size: 42px;
+    margin-right: 14px;
+}
+
+#experience small {
+    color: #633;
+    font-weight: bold;
+}
+
+#education {
+    background: #E3AE57;
+}
+
+#education .education-img {
+    background: url('../images/education-img.jpg') no-repeat;
+}
+
+#education .media-heading {
+    margin-bottom: 0px;
+}
+
+#education .media .fa {
+    font-size: 42px;
+    margin-right: 14px;
+}
+
+#education small {
+    color: #886D1E;
+    font-weight: bold;
+}
